@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to left top , coral , orange , yellow , crimson);
+}
+
+.header_div{
+    background-color: wheat;
+}
+
+.copy_right_footer{
+    background-color: wheat;
+}
